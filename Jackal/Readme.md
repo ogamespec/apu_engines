@@ -1,4 +1,4 @@
-Credits: RayofJay
+Credits: RayofJay  (Discord: https://discord.gg/7EAJJBEbTZ)
 
 :)
 
