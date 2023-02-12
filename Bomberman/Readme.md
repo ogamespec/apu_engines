@@ -4,6 +4,8 @@ As an example of APU programming, here are excerpts from the source code of the 
 
 All the source code of the game can be found here: https://github.com/emu-russia/bomberman-nes
 
+See also: http://www.vgmpf.com/Wiki/index.php?title=Fumihiko_Itagaki
+
 ## Engine
 
 ```
